@@ -1,4 +1,4 @@
-/* タイトルを赤く */
+/* タイトル */
 #main-title
 {
     display: block;
@@ -9,7 +9,7 @@
     text-align: center;
 }
 
-/* 段落の文字をグレーに */
+/* 段落の文字 */
 .highlight 
 {
     display: block;
@@ -19,6 +19,7 @@
     line-height: 1.6;
 }
 
+/* ボタン */
 .button
 {
     text-align: center;
